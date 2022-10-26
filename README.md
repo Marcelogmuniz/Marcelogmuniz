@@ -10,7 +10,8 @@
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcelogmuniz&show_icons=true&theme=dark)
 
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelogmuniz&layout=compact)](https://github.com/Marcelogmuniz/github-readme-stats)
+
 
 ### Tecnologias em que eu tenho conhecimento:
 
